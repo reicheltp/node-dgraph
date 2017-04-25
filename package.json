@@ -6,5 +6,7 @@
   "repository": "http://github.com/reicheltp/node-dgraph",
   "author": "Paul Reichelt",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "grpc": "^1.2.4"
+  }
 }
