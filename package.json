@@ -1,0 +1,10 @@
+{
+  "name": "node-dgraph",
+  "version": "1.0.0",
+  "description": "A sample how to use dgraph from NodeJS via gRPC",
+  "main": "app.js",
+  "repository": "http://github.com/reicheltp/node-dgraph",
+  "author": "Paul Reichelt",
+  "license": "MIT",
+  "dependencies": {}
+}
